@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Word in due season to the ranting royallists, and rigid Presbyterians &amp;c. by a person wholly disinterested in any of the late or present factions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67039</idno>
+            <idno type="STC">Wing W3542</idno>
+            <idno type="STC">ESTC R35271</idno>
+            <idno type="EEBO-CITATION">15091456</idno>
+            <idno type="OCLC">ocm 15091456</idno>
+            <idno type="VID">103221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1581:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Word in due season to the ranting royallists, and rigid Presbyterians &amp;c. by a person wholly disinterested in any of the late or present factions.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103221:1"/>
+            <!-- PDF PAGE 20 -->
+            <p>A WORD in due SEASON TO THE Ranting Royalliſts, AND Rigid Presbyterians, &amp;c.</p>
+            <p>By a Perſon wholly Diſintereſsed in any of the late, or preſent Factions.</p>
+            <figure/>
+            <p>Printed, In the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103221:2"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="3" facs="tcp:103221:2"/>
+            <!-- PDF PAGE 21 -->
+            <head>A <hi>WORD</hi> in due <hi>SEASON</hi> TO THE Ranting Royalliſts, AND Rigid Presbyterians, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is too manifeſt, That, in the firſt Warre, ſome of you (I mean the <hi>Outragious Royalliſts</hi>) did more pre<g ref="char:EOLhyphen"/>judice the <hi>KING</hi> your <hi>Maſter,</hi> then the <hi>Swords</hi> of his <hi>Enemies;</hi> many of you brought
+<pb n="4" facs="tcp:103221:3"/>
+               <!-- PDF PAGE 22 -->more Scandall on Him, then their tongues; And as Divines tell us, It was not only <hi>Judas</hi> that Betrayed, nor <hi>Pilate</hi> that Condemned, nor the <hi>Jews</hi> that Buffeted our Saviour, but every pre<g ref="char:EOLhyphen"/>ſumptuous ſinner acted, and ſtill acts his Part, in the Tragedie: ſo by Gods juſt Permiſſion, and for our deſerved Puniſhment, your <hi>Exorbitances</hi> (I fear) conſpired with the <hi>malice</hi> of others, in bringing that <hi>ſacred</hi> and <hi>innocent head</hi> to the <hi>Scaffold:</hi> What an <hi>odium</hi> brought you upon his Actions? What a <hi>jealouſie</hi> upon his Coun<g ref="char:EOLhyphen"/>ſels? Nay, what <hi>contempt</hi> upon his Perſon and Authority? The worſt of their Proceedings from thence received, (I will not ſay, <hi>Juſtice</hi>) nor ſcarce Colour; but ſure I am, that what pre<g ref="char:EOLhyphen"/>tence they had, they borrowed of you: Other<g ref="char:EOLhyphen"/>wiſe, his <hi>Innocency</hi> fighting with Armes (Cha<g ref="char:EOLhyphen"/>rity bindes me to believe in his judgement) purely <hi>defenſive,</hi> and with frequent Sollicitations purſu<g ref="char:EOLhyphen"/>ing Peace, would either have prevailed with the Parliament for an Accommodation, or left them generally condemned, as <hi>malicious Contrivers,</hi> and <hi>obſtinate Continuers</hi> of the <hi>WAR,</hi> whereby moſt of the <hi>good people</hi> of <hi>England,</hi> but eſpecially of <hi>London,</hi> and the <hi>Aſſociated Counties,</hi> would ſoon have been undeceived, as they have ſince been by late and wofull experience; for it is well known, that many (then) the <hi>fierceſt Zealots</hi> for our <hi>unhappy Reformation,</hi> never <hi>hated</hi> the Perſon of their SOVERAIGN, nor <hi>envied</hi> his juſt Power, but <hi>ſincerely</hi> loved him, and <hi>heartily</hi> embraced his Govenment; yet being firſt terrified
+<pb n="5" facs="tcp:103221:3"/>
+               <!-- PDF PAGE 22 -->by your threats, and exaſperated with your Pro<g ref="char:EOLhyphen"/>vocations, were, afterwards, by their <hi>factious Teachers</hi> and <hi>Ringleaders,</hi> too eaſily cheated of their <hi>Loyalty,</hi> and led captive, as it were, into <hi>meer Sedi<g ref="char:EOLhyphen"/>tion,</hi> under the ſpecious (but ſtale) pretence of re<g ref="char:EOLhyphen"/>moving evill Counſellours, and reſcuing his Ma<g ref="char:EOLhyphen"/>jeſties Authority and Perſon (as they were told) out of the hands of a deſperate Crew, which abuſed his goodneſs and facility: The truth whereof, doth ſince evidently appear, by their <hi>frank confeſsion, hearty contrition,</hi> and late moſt <hi>effectual endeavours,</hi> with <hi>ſober</hi> and <hi>generous Actions,</hi> to cancel the <hi>memory</hi> of their <hi>former errors,</hi> and ſatisfie the World (at leaſt the judicious) they never ſinned <hi>preſumptuouſly;</hi> for <hi>inſolent</hi> and <hi>malicious Treaſon</hi> commonly feſters the ſoul, and ends in the gangrene of a deſpairing and implacable <hi>Guilt;</hi> whereas, their deſire to truſt that Prince, whom once they diſobliged, ſavours, though of much Errour at firſt, yet now of more Ingenuity, and muſt be conſtrued to proceed only from ſuch ſoundneſs of heart, and clearneſs of ſpirit, as by good men ought to be highly cheriſhed; and, perhaps, far better eſteemed, then the meer oſtentation of per<g ref="char:EOLhyphen"/>ſeverance in <hi>pretended Loyalty,</hi> but <hi>real Animoſity:</hi> Wherefore, Gentlemen, in true friendſhip to you, (whom I would willingly, in part, excuſe, upon the ſcore of your great Suffering, and Oppreſſion, which tranſports even wiſe men) but eſpecially, in zeal of his ſervice, whom we all profeſſe equally to deſire, give me leave without offence, a little to expoſtulate with you.</p>
+            <p>
+               <pb n="6" facs="tcp:103221:4"/>
+               <!-- PDF PAGE 23 -->
+Do you think it a ſmall matter, That after a long <hi>conſumption</hi> of our <hi>bloud</hi> and <hi>ſpirits</hi> in a <hi>civil War,</hi> or a <hi>Peace,</hi> more <hi>hoſtile</hi> then it, God hath, at length, miraculouſly afforded us a poſſibility of <hi>Settlement?</hi> That after a <hi>tedious</hi> night of <hi>Egyptian</hi> darkneſs and bondage, God hath given you a <hi>glimpſe,</hi> and indeed as yet, but a <hi>glimpſe</hi> of hope, That you, as <hi>Engliſhmen,</hi> may in due time, with others, enjoy your birthright, (<hi>viz.</hi>) an Equal Pro<g ref="char:EOLhyphen"/>tection and Benefit of the Law; and will nothing, now, already, content you but <hi>abſolute Dominion,</hi> and to have all things proſtrate at your feet? Is this a fitting return of <hi>thankfulneſs</hi> to God, for your deliverance begun, or a probable means of prevailing with him, to continue and perfect his mighty worke? Have you ſo ſoon forgotten your Sequeſtrations, Priſons, and Scaffolds? Can you remember no ſins of yours, that entitled you to thoſe Puniſhments, or might modeſtly oblige you, at leaſt to confeſs the juſtice of God, in the un<g ref="char:EOLhyphen"/>juſtice of Men; but muſt all your ſufferings be imputed to meer <hi>ſupererogation</hi> and <hi>glorious Martyr<g ref="char:EOLhyphen"/>dome?</hi> Was it a Crime, unpardonable, in your Adverſaries, as you pretend, to rebel, though many of them tranſgreſſed, more out of ignorance, then contempt of their Duty; and is it no fault in you, who glory in being ſo Orthodox, to breath out Violence, cheriſh your luſts, and ſteep your ſouls in Revenge? Are you of the Nature of thoſe Ele<g ref="char:EOLhyphen"/>ments, which, in our Proverbial dialect, <hi>are good Servants, but ill Maſters,</hi> and which, if not con<g ref="char:EOLhyphen"/>fin'd, will drown and devoure all? Were you fa<g ref="char:EOLhyphen"/>tally
+<pb n="7" facs="tcp:103221:4"/>
+               <!-- PDF PAGE 23 -->deſign'd either to be <hi>Slaves,</hi> or <hi>Tyrants, Gi<g ref="char:EOLhyphen"/>beonites,</hi> or <hi>Baſhawes?</hi> Are you like thoſe in <hi>Bed<g ref="char:EOLhyphen"/>lam,</hi> not to be tamed but with hunger and ſtripes? Can you imagine, the lofty pretences of a Party, which hath been ſo often foyled, ſo long ſuppreſt, ſo much ſuſpected, will conſiſt with the ſatisfacti<g ref="char:EOLhyphen"/>on of others more conſiderable, the <hi>Settlement</hi> of the <hi>Nation,</hi> the <hi>Exigence</hi> of <hi>Affairs?</hi> Or can you ever hope to carry it with a high hand by your ſilly <hi>Rhodomontado's?</hi> Hath not <hi>experience</hi> yet made you ſenſible, That the People of this Nation, having taſted the <hi>forbidden fruit,</hi> are now become <hi>ſinfully wiſe;</hi> That their eyes being indeed opened, but withall their natures vitiated, and wils depra<g ref="char:EOLhyphen"/>ved, they are quite fallen from their <hi>primitive inno<g ref="char:EOLhyphen"/>cency,</hi> ſo as I fear, the KING, if reſtored, muſt buckle to inconveniences, and Reign, at leaſt, for ſome time, rather as a <hi>Probationer</hi> then a <hi>Prince?</hi> Were not ſome of you drinking your late Maſters health, whilſt his Cauſe, nay, perhaps, himſelf was bleeding his laſt? Have not you ſince ſerved his Son, much at the ſame rate, and with like ſucceſs? Will you never learn to govern your Paſſions, to allay your Cups, or turn, if not truly Virtuous, yet ordinarily Diſcreet, ſo, at leaſt, as not to fall mi<g ref="char:EOLhyphen"/>ſerably into the Pitty of your Friends, the Scorn of your Enemies, and Obloquie of the People: That a Righteous cauſe may no more be blaſted with your Scandals, Good men branded for your Li<g ref="char:EOLhyphen"/>centiouſneſs, and the ſober and numerous Royal Party (which certainly hath no Peer for conſtan<g ref="char:EOLhyphen"/>cy, juſtice, and modeſty) decimated, as it were,
+<pb n="8" facs="tcp:103221:5"/>
+               <!-- PDF PAGE 24 -->again in its reputation, for the Enormities, of a few (that being God be thanked your number) Do you not know, how the KING diſowne's you, the People diſlike you, your Friends bluſh for you, and the Enemies of our quiet now make uſe of your exorbitances or treacheries (a belief of the latter your irrational Rantings extort from me) to obſtruct a <hi>lawfull</hi> and <hi>happy Settlement.</hi> And if (which God in mercy prevent) now in this great <hi>Cryſis</hi> of our hopes, and fears, through your folly and frenzie (I wiſh I could forbear to ſay, ſome of your falſhood) the hands of true <hi>Engliſhmen</hi> ſhould be weakned, the Factions exaſperated, the jealous alarm'd (though falſly) the tender ſprouts of Loyalty nipped and diſcouraged, ſo that our hopes and en<g ref="char:EOLhyphen"/>devours ſhould prove abortive, and your poor Countrey return to its thraldom, would not the preſent Age and Poſterity, have cauſe to curſe you, more then any of our late Tyrants and Taskma<g ref="char:EOLhyphen"/>ſters? And who indeed would then, be accounted ſuch Traytors, and firebrands, as you? However, think ſeriouſly, if you can, whether (you perſiſting) the Nation (now enclin'd to vomiting) will not ſpue you out amongſt the Phanaticks, as a morſel, which if it were ſwallowed, can never be digeſted, but muſt oppreſs nature, putrifie in the ſtomach, and poyſon the bloud; in fine, a meer Faction, and an Extreme, no leſſe nauſeous and dangerous, then the <hi>Rump</hi> it ſelf.</p>
+            <p>
+               <pb n="9" facs="tcp:103221:5"/>
+               <!-- PDF PAGE 24 -->
+AND you my good Friends of the <hi>Preſbyte<g ref="char:EOLhyphen"/>rian</hi> Party, know, that you are generally diſtinguiſhed into Two <hi>Claſſes,</hi> (viz.) <hi>Moderate</hi> and <hi>Rigid.</hi> You of the Firſt rank are by all ſober men acknowledged, now, to be of the beſt ſort of <hi>Engliſh</hi>-men, not differing (materially at leaſt) from the <hi>Moderate Royalliſt;</hi> Generous Aſſertors of our Liberties, ſtout Oppugners of encroaching (and conſequently) Maintainers of Juſt Preroga<g ref="char:EOLhyphen"/>tive; above all, you are conſidered as Perſons, that will modeſtly <hi>acquieſce</hi> in Freedome of Par<g ref="char:EOLhyphen"/>liament, the only Cure proper to our Diſtem<g ref="char:EOLhyphen"/>pers. For we ſuppoſe your Moderation, which to you was naturall, cannot but be greatly im<g ref="char:EOLhyphen"/>proved, by your Experience, ſince many, even the Principall of you, having been for your Loyalty, and Temper, forcibly excluded from the Government, more then Eleven years, have, thereby, had leiſure to reflect on Errors, to ob<g ref="char:EOLhyphen"/>ſerve paſſages, and to deſign Expedients, with<g ref="char:EOLhyphen"/>out the Partiality of Gameſters; Great reaſon therefore, we have, to promiſe our ſelves, That you, who have not only, with others, ſeen, and felt the fatal conſequences of the Swords interpo<g ref="char:EOLhyphen"/>ſing in our Laws, but more ſignally, in your own Perſons, ſuffered thoſe memorable inſolencies and indignities from <hi>Red-coats,</hi> will be for ever moſt tenderly concerned for the honour of <hi>Parliaments,</hi> and careful never to encourage, much leſſe (un<g ref="char:EOLhyphen"/>der any pretence, how ſpecious ſoever) your ſelves to practice that Violence, which you have
+<pb n="10" facs="tcp:103221:6"/>
+               <!-- PDF PAGE 25 -->ſo juſtly and notably branded in others, when exerciſed on you; And this honeſt Principle, wherein the <hi>Sober Royalliſts</hi> ſhake hands with you, I take for the only baſis, upon which, we can, poſſibly be ſetled.</p>
+            <p>But for you, of the other ſort, <hi>(viz.)</hi> The Vi<g ref="char:EOLhyphen"/>olent and Rigid, I muſt tell you Plainly; You are eſteemed, but a kinde of <hi>Franticks,</hi> and very <hi>paltry ones;</hi> In your Policy, Pedantick, in your Juſtice, Narrow and Mechanick, ſelviſh in Con<g ref="char:EOLhyphen"/>verſation, Waſpiſh in Argument or Debate, Per<g ref="char:EOLhyphen"/>verſe in Buſineſs, Excentrick in your Motions, and true to no Principle; You are obſerved not to walk by the Golden rule of <hi>doing as you would be done to;</hi> nor think your ſelves concerned in that Sacred Precept, of <hi>doing no evill, that good may follow; Per fas, aut nefas,</hi> and <hi>Flectere ſi nequeo ſuperos,</hi> &amp;c. are no ſmall part of your Decalogue. Waving therefore the deſign of con<g ref="char:EOLhyphen"/>vincing your Judgments, as impertinent, if not impoſſible, give me leave to acquaint you, That the Nation hath, hitherto, ſeen little of yov to enamour them; That the moſt Extravagant of <hi>Sectaries</hi> are more grateful to us, then you, in re<g ref="char:EOLhyphen"/>gard they allow others the ſame freedom, they ar<g ref="char:EOLhyphen"/>rogate to themſelves; That the Diſcipline of <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> is every where cenſured, as a <hi>Government,</hi> by <hi>Princes</hi> juſtly <hi>ſuſpected</hi> and <hi>feared,</hi> by <hi>Nobility ſcorned,</hi> and by the <hi>People</hi> of <hi>England, loathed;</hi> That it will never be <hi>ſetled</hi> here, by <hi>fair means,</hi> nor ſurely, I hope, by <hi>foul,</hi> or if it be, it muſt come, like <hi>Mahomet,</hi> with a <hi>Turkiſh Cimitar</hi> in its <hi>hand,</hi>
+               <pb n="11" facs="tcp:103221:6"/>
+               <!-- PDF PAGE 25 -->and <hi>deſolation</hi> at its <hi>heels:</hi> You may, therefore, do well, for our ſakes, and your own, to deſiſt from ſo hopeleſs a purſute, and content your ſelves with the <hi>Liberty</hi> of <hi>Chriſtians,</hi> and <hi>Engliſh<g ref="char:EOLhyphen"/>men,</hi> without contending for a <hi>Dominion,</hi> ſo diſtaſte<g ref="char:EOLhyphen"/>full to all, but your ſelves; However, I beſeech you, refrain your factious and unworthy Arts, in ſpreading and fomenting thoſe <hi>Calumnies,</hi> which your ſelves know to have no other ground then the <hi>levity</hi> of a few <hi>Malecontents,</hi> no deeper root, then the <hi>Tavern,</hi> nor any Reputation, but what you delight to give them, and which would vaniſh of their own accord, like froth, or bubbles, if you were not as ready to uphold, as induſtrious to propagate diſcord; as the indiſcreteſt <hi>Cavaliers</hi> are apt, (and alas, too apt they are) to vent their follies.</p>
+            <p>Finally, you Church-men, whether of the <hi>Claſsicall</hi> or <hi>Epiſcopall</hi> Judgement, Remember, you are Miniſters of the <hi>Goſpel,</hi> not of the <hi>State:</hi> For which purpoſe, our Pious Lawes have provi<g ref="char:EOLhyphen"/>ded you a peculiar Maintenance, to depend on no man, have both Sequeſtred you from Publick Offices, and exempted you from Civil Duties: Thruſt not then your Sickles into any other Har<g ref="char:EOLhyphen"/>veſt; Act not the parts of News-mongers and Politicians; wherein, as your Errors are of them<g ref="char:EOLhyphen"/>ſelves Preſumptuous, to the People moſt Con<g ref="char:EOLhyphen"/>tagious, ſo your beſt Abilities ſavour of Imper<g ref="char:EOLhyphen"/>tinency, Oſtentation, and a worldly minde: What ſay your Adverſaries? You, no queſtion, ſtruck the firſt ſtroak; for our <hi>Stateſmen</hi> turned not <hi>Preachers,</hi> till our <hi>Preachers</hi> turn'd <hi>Stateſmen.</hi> It
+<pb n="12" facs="tcp:103221:7"/>
+               <!-- PDF PAGE 26 -->is, ſurely, high time, you redeem the Credit, you have loſt, whether as <hi>Evangeliſts, Chriſtians,</hi> or <hi>good Citizens;</hi> and ſtop their mouths, who have too much colour to Object, That your <hi>Bleſsings</hi> and <hi>Curſes</hi> arr like thoſe of <hi>Balaam;</hi> and that, indeed, you deliver not <hi>Chriſts Ordinances,</hi> but your <hi>own Paſsions;</hi> wherein, though, perhaps, you may not alwayes ere in the <hi>Main,</hi> yet, commonly, you tranſgreſs, in the <hi>meaſure.</hi> I could much have enlarged upon theſe Subjects, but this, I hope, may ſuffice, if it be <hi>read</hi> with the ſame <hi>ſpirit,</hi> where with it is <hi>written.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:103221:7"/>
+            <!-- PDF PAGE 26 -->
+         </div>
+      </body>
+   </text>
+</TEI>
